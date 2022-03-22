@@ -1,0 +1,10 @@
+{
+  "clientId": "",
+  "authority": "",
+  "redirectUri": "http://localhost:3000",
+  "scopes": [
+    "User.Read"
+  ],
+  "graphMeEndpoint": "https://graph.microsoft.com/v1.0/me",
+  "graphMePhotoEndpoint": "https://graph.microsoft.com/v1.0/me/photos/48x48/$value"
+}
